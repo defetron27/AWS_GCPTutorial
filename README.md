@@ -1,1 +1,1 @@
-# AWS_GCPTutorial
+# AWS_Lambda_GCPTutorial
